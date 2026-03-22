@@ -53,9 +53,24 @@ I am also exploring Web Development (HTML, CSS, JavaScript) and working on small
 ![](https://github-profile-trophy.vercel.app/?username=mohitmishra12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar-tech) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohit Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitkumar8175m@gmail.com) 
-<!-- Snake Game Repo View -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohitkumar-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@mohitkumar-tech" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:mohitkumar8175m@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  💬 Let's connect and collaborate! 🚀
+</p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
